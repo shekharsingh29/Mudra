@@ -1,2 +1,4 @@
 # Mudra
-Do not save what is left after spending, but spend what is left after saving. – Warren Buffett.
+"Do not save what is left after spending, but spend what is left after saving" – Warren Buffett.
+
+Making saving easy and organized.
